@@ -1,0 +1,41 @@
+Ways in which we can model people:
+* Rational Actor Models: 
+    Assume there is a mathematical function mapped to human behavior.
+    Optimize this to obtain maximum use for the person
+    ex: utility = C^.5*L^.5 (C = consumption, L = liesure)
+    Not an exact formula. Try to come closer
+* Behavioral Models
+    Observe what people do (not rational)
+    Neuroscience helps in understanding how people think. 
+* Rule Based Models
+    Assume people follow rules. derive simple rules it should map nicely if the simpler rules are closer to what people do.
+    Schelling model: 
+
+- Rational Actor Model:
+    Assume people have some kind of objective (goal). Given the objective, people tries to optimize the objective.
+    ex: Firm - maximize profits (make the choice that maximizes this)
+        Individual - maximize utility
+        Political Candidate - maximize votes
+    Firm example: Revenue = price * quantity
+        quantity = q
+        price = 50 - q
+        what q should be chosen to maximize revenue? optimal choice is q = 25
+    Where to apply?
+        Investments
+        Purchases
+        Education Level (level of schooling)
+        vote
+    When we assume rationality, people always think it as selfish. But rationality depends on objective function. In case of selfishness, objective function is always "me".
+    
+    Decision vs Game:
+    - Decision: Payoff depends on what I do.
+    - Game: Payoff depends on what others do.
+    Game theory assumes other persons are rational. This is always good to assume others as rational.
+
+    When do we see rationality: 
+    Large Stakes: when stakes are high, rationality is always present. People tend to think rationally when they have to take huge decisions
+    Repeated: 
+    Group Decisions: 
+    Easy Problem:
+
+    
